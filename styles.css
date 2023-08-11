@@ -32,17 +32,16 @@ body {
 .image-format1 {
     background-size: cover;
     background-position: center;
-    background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.w3schools.com%2Fw3images%2Fkitchenconcrete.jpg);
-    height: 40vh;
-    width: 50%;
+    height: 400px;
+    max-width: 100%;
 }
 
 .image-format2 {
     background-size: cover;
     background-position: center;
     background-image: url(https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.w3schools.com%2Fw3images%2Flivingroom.jpg);
-    height: 30vh;
-    width: 50%;
+    height: 300;
+    max-width: 100%;
 }
 
 .BvP {
